@@ -1,0 +1,5 @@
+files num:197
+chunks per file:5
+password:4321
+partition count:2
+version:1
