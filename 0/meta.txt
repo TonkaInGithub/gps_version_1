@@ -1,4 +1,4 @@
-files num:1200
+files num:1201
 chunks per file:5
 password:4321
 partition count:2
