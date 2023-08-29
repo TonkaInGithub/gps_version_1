@@ -1,5 +1,5 @@
-files num:1
+files num:1202
 chunks per file:5
 password:4321
 partition count:2
-version:0
+version:1
